@@ -133,3 +133,9 @@ Projeyi klonladıktan sonra gerekli Python paketlerini kurmak için:
 git clone https://github.com/kullanici/yapay_zeka_bilgisayarli_goru.git
 cd yapay_zeka_bilgisayarli_goru
 pip install -r requirements.txt
+
+```
+
+## Teşekkürler
+
+Bu proje, Udemy'deki "[Görsel Analiz: Yapay Zeka ile Bilgisayarla Görü](https://www.udemy.com/course/yapay-zeka-ile-bilgisayarl-goru/)" kursundan alınan içeriklere dayanmaktadır. Bu eğitimi hazırlayan eğitmenlere ve katkıda bulunan herkese teşekkür ederim. Görsel analiz alanındaki bilgi ve becerilerimi geliştirmeme yardımcı oldular.
