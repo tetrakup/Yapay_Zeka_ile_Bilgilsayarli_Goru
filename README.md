@@ -4,7 +4,7 @@ Bu repo, bilgisayarlı görü üzerine çeşitli konuları içeren projeleri ve 
 
 ## İçindekiler
 
-1. [Introduction to Computer Vision](#introduction-to-computer-vision)
+1. [Introduction to Computer Vision](#0_introduction-to-computer-vision)
 2. [Keras Callbacks API](#keras-callbacks-api)
 3. [Fire Detection](#fire-detection)
 4. [Hyperparameter Tuning](#hyperparameter-tuning)
