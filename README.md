@@ -68,8 +68,8 @@ Bu proje, yangın tespiti için derin öğrenme modellerinin kullanılmasını i
 <p align="center">
   <img src="https://github.com/user-attachments/assets/528b1cc1-9b5a-4064-9fc8-4bec0900c2c3" alt="image" width="350"/>
   </p>
+  
 - **Test**: Test verileri üzerinde denemeler.
-
 ---
 
 ### 4. Hyperparameter Tuning
