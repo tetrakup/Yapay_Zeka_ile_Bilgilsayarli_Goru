@@ -3,7 +3,7 @@
 Bu repo, bilgisayarlı görü üzerine çeşitli konuları içeren projeleri ve uygulamaları kapsamaktadır. Yapay zeka teknikleriyle, bilgisayarlı görü alanındaki çeşitli görevleri çözmek için TensorFlow, Keras, OpenCV gibi araçlar kullanılmıştır. Her klasör, belirli bir konu başlığını ve o konuya ait projeleri içerir.
 
 ## İçindekiler
-
+<!--
 1. [Introduction to Computer Vision](#0_introduction-to-computer-vision)
 2. [Keras Callbacks API](#keras-callbacks-api)
 3. [Fire Detection](#fire-detection)
@@ -12,6 +12,15 @@ Bu repo, bilgisayarlı görü üzerine çeşitli konuları içeren projeleri ve 
 6. [Keras OCR](#keras-ocr)
 7. [MediaPipe](#mediapipe)
 8. [Autoencoder](#autoencoder)
+-->
+1. [Introduction to Computer Vision](https://github.com/tetrakup/Yapay_Zeka_ile_Bilgilsayarli_Goru/tree/main/0_introduction_to_computer_vision)
+2. [Keras Callbacks API](https://github.com/tetrakup/Yapay_Zeka_ile_Bilgilsayarli_Goru/tree/main/1_keras_callbacks_api)
+3. [Fire Detection](https://github.com/tetrakup/Yapay_Zeka_ile_Bilgilsayarli_Goru/tree/main/2_fire_detection)
+4. [Hyperparameter Tuning](https://github.com/tetrakup/Yapay_Zeka_ile_Bilgilsayarli_Goru/tree/main/3_hyperparameter_tuning)
+5. [OpenCV DNN](https://github.com/tetrakup/Yapay_Zeka_ile_Bilgilsayarli_Goru/tree/main/5_opencv_dnn)
+6. [Keras OCR](https://github.com/tetrakup/Yapay_Zeka_ile_Bilgilsayarli_Goru/tree/main/6_keras_ocr)
+7. [MediaPipe](https://github.com/tetrakup/Yapay_Zeka_ile_Bilgilsayarli_Goru/tree/main/7_mediapipe)
+8. [Autoencoder](https://github.com/tetrakup/Yapay_Zeka_ile_Bilgilsayarli_Goru/tree/main/8_autoencoder)
 
 ---
 
